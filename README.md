@@ -23,4 +23,20 @@
 ![image](https://github.com/LOSTYFAN/Oracle/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80(DDL).png)
 ## Oracle知识点9-表
 ![image](https://github.com/LOSTYFAN/Oracle/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%9B%BE%E7%89%87/Oracle%E7%9F%A5%E8%AF%86%E7%82%B99-%E8%A1%A8.png)
-
+## Oracle知识点10-约束
+![image](https://github.com/LOSTYFAN/Oracle/blob/master/思维导图图片/Oracle知识点10-约束.png)
+## Oracle知识点11-视图
+![image](https://github.com/LOSTYFAN/Oracle/blob/master/思维导图图片/Oracle知识点11-视图.png)
+## Oracle知识点12-序列
+![image](https://github.com/LOSTYFAN/Oracle/blob/master/思维导图图片/Oracle知识点12-序列.png)
+## Oracle知识点13-索引
+![image](https://github.com/LOSTYFAN/Oracle/blob/master/思维导图图片/Oracle知识点13-索引.png)
+## Oracle知识点14-同义词
+![image](https://github.com/LOSTYFAN/Oracle/blob/master/思维导图图片/Oracle知识点14-同义词.png)
+## Oracle的用户、权限与角色
+## Oracle知识点15-用户(USER)
+![image](https://github.com/LOSTYFAN/Oracle/blob/master/思维导图图片/Oracle知识点15-用户(USER).png)
+## Oracle知识点16-权限
+![image](https://github.com/LOSTYFAN/Oracle/blob/master/思维导图图片/Oracle知识点16-权限.png)
+## Oracle知识点17-角色(ROLE)
+![image](https://github.com/LOSTYFAN/Oracle/blob/master/思维导图图片/Oracle知识点17-角色(ROLE).png)
